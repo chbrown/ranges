@@ -1,0 +1,22 @@
+{
+  "name": "ranges",
+  "version": "0.0.1",
+  "description": "Range manipulation and testing",
+  "keywords": [
+    "number",
+    "ranges",
+    "intervals",
+    "inclusive",
+    "exclusive"
+  ],
+  "homepage": "https://github.com/chbrown/ranges",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chbrown/ranges.git"
+  },
+  "author": "Christopher Brown <io@henrian.com> (http://henrian.com)",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test"
+  }
+}
